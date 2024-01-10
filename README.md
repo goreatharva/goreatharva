@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently in my **Second Year**
 
-- 💬 Ask me about **Competitive Programming, Java, Python,Chess,**
+- 💬 Ask me about **Competitive Programming, Java, Python, Chess,**
 
 - 📫 How to reach me **atharva.gore22@vit.edu**
 
