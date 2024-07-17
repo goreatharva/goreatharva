@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/atharvagore12" target="blank"><img src="https://img.shields.io/twitter/follow/atharvagore12?logo=twitter&style=for-the-badge" alt="atharvagore12" /></a> </p>
 
-- 🎓 I’m currently in my **Second Year**
+- 🎓 I’m currently in my **Third Year**
 
-- 💬 Ask me about **Competitive Programming, Java, Python, Chess**
+- 💬 Ask me about **Competitive Programming, Java, Python, Chess, Capital Markets, Stock Markets, Personal Finance**
 
 - 📫 How to reach me **atharva.gore22@vit.edu**
 
