@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **atharva.gore22@vit.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18YvdJhqdzVOFUtCLy-9_Bh6qpn2WOFtv/edit?usp=sharing&ouid=106654834102305746775&rtpof=true&sd=true](https://docs.google.com/document/d/18YvdJhqdzVOFUtCLy-9_Bh6qpn2WOFtv/edit?usp=sharing&ouid=106654834102305746775&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I suck**
+- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1Jp3J9jBprPfsUm2WWxuxtIoc7XHN0rjT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
