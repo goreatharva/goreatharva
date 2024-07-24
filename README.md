@@ -14,7 +14,7 @@ I'm a passionate computer engineering student with a strong interest in competit
 - Personal Finance
 
 #### How to reach me:
-- Email: atharva.gore22@vit.edu
+- Email: [atharva.gore22@vit.edu](mailto:atharva.gore22@vit.edu)
 - [Resume](https://drive.google.com/file/d/1Jp3J9jBprPfsUm2WWxuxtIoc7XHN0rjT/view?usp=drive_link)
 
 #### Connect with me:
