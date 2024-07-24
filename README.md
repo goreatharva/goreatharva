@@ -1,23 +1,24 @@
-                                                           ## Hi 👋, I'm Atharva Gore
+# Hi 👋, I'm Atharva Gore
 
 ### Currently Pursuing B.Tech. in Computer Engineering
 
-I'm a passionate computer engineering student with a strong interest in competitive programming, Java, Python, chess, capital markets, stock markets, and personal finance. I'm currently in my **Third Year** of studies.
+I'm a dedicated B.Tech student in Computer Engineering, currently in my third year at Vellore Institute of Technology. I have a strong passion for competitive programming and software development, with proficiency in Java and Python. My interests also extend to chess, capital markets, stock markets, and personal finance.
 
-#### Ask me about:
-- Competitive Programming
-- Java
-- Python
-- Chess
-- Capital Markets
-- Stock Markets
-- Personal Finance
+## Skills and Interests
 
-#### How to reach me:
-- Email: [atharva.gore22@vit.edu](mailto:atharva.gore22@vit.edu)
-- [Resume](https://drive.google.com/file/d/1Jp3J9jBprPfsUm2WWxuxtIoc7XHN0rjT/view?usp=drive_link)
+- **Programming Languages**: Java, Python, C, HTML, CSS
+- **Tools and Technologies**: Android, Arduino, Git, MySQL, MATLAB, Linux, Photoshop, Illustrator
+- **Competitive Programming**: Actively participating in contests on platforms like Codeforces.
+- **Chess**: Enthusiast and regular player.
+- **Finance**: Knowledgeable in capital and stock markets, with a keen interest in personal finance.
 
-#### Connect with me:
+## How to Connect
+
+- **Email**: [atharva.gore22@vit.edu](mailto:atharva.gore22@vit.edu)
+- **Resume**: [Download my Resume](https://drive.google.com/file/d/1Jp3J9jBprPfsUm2WWxuxtIoc7XHN0rjT/view?usp=drive_link)
+
+## Social Media Links
+
 <p align="left">
 <a href="https://twitter.com/atharvagore12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvagore12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atharva-gore-6bb470250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-gore-6bb470250" height="30" width="40" /></a>
@@ -25,7 +26,8 @@ I'm a passionate computer engineering student with a strong interest in competit
 <a href="https://codeforces.com/profile/goreatharva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="goreatharva" height="30" width="40" /></a>
 </p>
 
-#### Languages and Tools:
+## Languages and Tools
+
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
