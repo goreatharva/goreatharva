@@ -2,13 +2,13 @@
 
 ### Currently Pursuing B.Tech. in Computer Engineering
 
-I'm a dedicated B.Tech student in Computer Engineering, currently in my third year at Vellore Institute of Technology. I have a strong passion for competitive programming and software development, with proficiency in Java and Python. My interests also extend to chess, capital markets, stock markets, and personal finance.
+I'm a dedicated B.Tech student in Computer Engineering, currently in my third year at Vishwakarma Institute of Technology, Pune. I have a strong passion for competitive programming and software development, with proficiency in Java and Python. My interests also extend to chess, capital markets, stock markets, and personal finance.
 
 ## Skills and Interests
 
 - **Programming Languages**: Java, Python, C, HTML, CSS
 - **Tools and Technologies**: Android, Arduino, Git, MySQL, MATLAB, Linux, Photoshop, Illustrator
-- **Competitive Programming**: Actively participating in contests on platforms like Codeforces.
+- **Competitive Programming**: Actively participating in contests on platforms like Codeforces, CodeChef and Atcoder.
 - **Chess**: Enthusiast and regular player.
 - **Finance**: Knowledgeable in capital and stock markets, with a keen interest in personal finance.
 
