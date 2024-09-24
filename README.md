@@ -2,7 +2,7 @@
 
 ### Currently Pursuing B.Tech. in Computer Engineering
 
-I'm a dedicated B.Tech student in Computer Engineering, currently in my third year at Vishwakarma Institute of Technology, Pune. I have a strong passion for competitive programming and software development, with proficiency in Java and Python. My interests also extend to chess, capital markets, stock markets, and personal finance.
+I'm a dedicated B.Tech student in Computer Engineering, currently in my third year at Vishwakarma Institute of Technology, Pune. I have a strong passion for competitive programming and software development, with proficiency in Java and Python. My interests also extend to chess, capital markets, stock markets, Geo-Politics etc.
 
 ## Skills and Interests
 
