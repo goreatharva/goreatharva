@@ -6,7 +6,7 @@ I'm a dedicated B.Tech student in Computer Engineering, currently in my third ye
 
 ## Skills and Interests
 
-- **Programming Languages**: Java, Python, C, HTML, CSS
+- **Programming Languages**: Java, Python, C, Cpp
 - **Tools and Technologies**: Android, Arduino, Git, MySQL, MATLAB, Linux, Photoshop, Illustrator
 - **Competitive Programming**: Actively participating in contests on platforms like Codeforces, CodeChef and Atcoder.
 - **Chess**: Enthusiast and regular player.
