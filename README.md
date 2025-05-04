@@ -15,7 +15,7 @@ I'm a dedicated B.Tech student in Computer Engineering, currently in my third ye
 ## How to Connect
 
 - **Email**: [atharva.gore22@vit.edu](mailto:atharva.gore22@vit.edu)
-- **Resume**: [Download my Resume](https://drive.google.com/file/d/1Jp3J9jBprPfsUm2WWxuxtIoc7XHN0rjT/view?usp=drive_link)
+- **Resume**: [Download my Resume]([https://drive.google.com/file/d/1Jp3J9jBprPfsUm2WWxuxtIoc7XHN0rjT/view?usp=drive_link](https://drive.google.com/file/d/12Q02aU9F99hb0YW8SVpDFqQiZMGGsUVF/view?usp=drive_link))
 
 ## Social Media Links
 
